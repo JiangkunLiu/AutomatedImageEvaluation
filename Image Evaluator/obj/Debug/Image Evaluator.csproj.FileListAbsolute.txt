@@ -1,0 +1,18 @@
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Image Evaluator.exe.config
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Image Evaluator.exe
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Image Evaluator.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\MainWindow.baml
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\MainWindow.g.cs
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\App.g.cs
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\Image Evaluator_MarkupCompile.cache
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\Image Evaluator.g.resources
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\Image_Evaluator.Properties.Resources.resources
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\Image Evaluator.csproj.GenerateResource.Cache
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\Image Evaluator.exe
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Debug\Image Evaluator.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Dicom.Core.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Dicom.Legacy.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Dicom.Platform.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Dicom.Core.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Dicom.Legacy.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Debug\Dicom.Platform.pdb

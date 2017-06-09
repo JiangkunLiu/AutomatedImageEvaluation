@@ -1,0 +1,26 @@
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\NLog.config
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Image Evaluator.exe.config
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Image Evaluator.exe
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Image Evaluator.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Dicom.Core.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Dicom.Legacy.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Dicom.Platform.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Kent.Boogaart.Converters.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Kent.Boogaart.HelperTrinity.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\NLog.dll
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Dicom.Core.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Dicom.Legacy.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Dicom.Platform.pdb
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Kent.Boogaart.Converters.xml
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\Kent.Boogaart.HelperTrinity.xml
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\bin\Release\NLog.xml
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Views\MainWindow.baml
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Views\MainWindow.g.cs
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\App.g.cs
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Image Evaluator_Content.g.cs
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Image Evaluator_MarkupCompile.cache
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Image Evaluator.g.resources
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Image_Evaluator.Properties.Resources.resources
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\CT.QC.csproj.GenerateResource.Cache
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Image Evaluator.exe
+C:\Users\Jiangkun Liu\Source\Workspaces\QC\Image Evaluator\Image Evaluator\obj\Release\Image Evaluator.pdb
